@@ -1,0 +1,2 @@
+# doLessMore
+doLessMore jQuery plugin
