@@ -1,6 +1,6 @@
 /*!
  * dolessmore jQuery plugin
- * author: justdial
+ * author: hammerstrike
  * Licensed : MIT license
  * Dependancy : bootstrap css
  */
